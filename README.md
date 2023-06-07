@@ -4,7 +4,7 @@ This program allows you to read data from a Google Sheets spreadsheet and send a
 ## Prerequisites
 Before running the program, make sure you have the following:
 
-**Google Sheets API credentials:** Obtain the JSON file containing your Google Sheets API credentials and provide the file path in the program code.
+**Google Sheets API credentials:** Obtain the JSON file containing your Google Sheets API credentials and provide the file path in the program code.  
 **Twilio account credentials:** Sign up for a Twilio account and obtain your account SID and auth token.
 ## Installation
 Clone or download the repository to your local machine.
